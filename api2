@@ -6,6 +6,6 @@
 
     {"ProductID":"1","ProductName":"RIDESTER WB","UnitPrice":"Rp 399.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://www.maternaldisaster.com/wp-content/uploads/2021/12/ridester-wb-1.jpg"},
 
-    {"ProductID":"1","ProductName":"RIDESTER SB","UnitPrice":"Rp 309.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://www.maternaldisaster.com/wp-content/uploads/2021/12/ridester-sb-1.jpg"},
+    {"ProductID":"1","ProductName":"RIDESTER SB","UnitPrice":"Rp 309.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://www.maternaldisaster.com/wp-content/uploads/2021/12/ridester-sb-1.jpg"}
 
     ],"totalRecordCount":10,"version":"17.0.13"}
